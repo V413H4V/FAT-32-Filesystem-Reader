@@ -10,9 +10,9 @@
 
 
 /*#################################
-#  Name: Vaibhav Ashok Murkute
-#  UTA ID: 1001626620
-#  Asssignment No.: 4 (FAT32)
+#  Author: Vaibhav Murkute
+#  Project: FAT-32 Filesystem Reader
+#  Version: 1.2
 #  Date: 05/04/2018
 ##################################*/
 
